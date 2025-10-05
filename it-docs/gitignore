@@ -1,0 +1,8 @@
+# pliki tymczasowe
+*.tmp
+*.bak
+*.swp
+
+# systemowe
+.DS_Store
+Thumbs.db
