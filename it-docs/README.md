@@ -1,12 +1,12 @@
 # it-docs
 
-Procedury i instrukcje dla HelpDesk — w formacie Markdown.  
+Procedury i instrukcje dla HelpDesk - w formacie Markdown.  
 Celem repozytorium jest pokazanie praktycznej dokumentacji IT, która może być używana w codziennej pracy lub jako materiał szkoleniowy.
 
 ## Zawartość
-- docs/konfiguracja-vpn.md — instrukcja konfiguracji VPN (OpenVPN)
-- docs/dodanie-do-domeny-windows.md — instrukcja dodania komputera do domeny Windows
-- docs/konfiguracja-drukarki-sieciowej.md — instrukcja konfiguracji drukarki sieciowej
+- docs/konfiguracja-vpn.md - instrukcja konfiguracji VPN (OpenVPN)
+- docs/dodanie-do-domeny-windows.md - instrukcja dodania komputera do domeny Windows
+- docs/konfiguracja-drukarki-sieciowej.md - instrukcja konfiguracji drukarki sieciowej
 
 ## Jak używać
 1. Przeglądaj pliki `.md` w tym repozytorium
