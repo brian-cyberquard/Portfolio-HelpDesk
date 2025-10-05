@@ -1,0 +1,8 @@
+# Ignorowane pliki tymczasowe
+*.log
+*.tmp
+*.bak
+
+# Systemowe
+.DS_Store
+Thumbs.db
