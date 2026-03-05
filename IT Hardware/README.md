@@ -4,7 +4,7 @@ Repozytorium dokumentujące praktyczne doświadczenie w składaniu i konfiguracj
 
 ## Zakres prac
 - Dobór kompatybilnych podzespołów
-- Montaż procesora, RAM, dysku M.2, GPU
+- Montaż płyty głównej, procesora, chłodzenia, RAM, dysku M.2, GPU
 - Okablowanie i organizacja przewodów
 - Pierwsze uruchomienie i test POST
 - Instalacja systemu operacyjnego
