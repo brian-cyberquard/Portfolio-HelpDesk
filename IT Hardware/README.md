@@ -1,4 +1,4 @@
-# IT Hardware Project – PC Build
+# IT Hardware – PC Build
 
 Repozytorium dokumentujące praktyczne doświadczenie w składaniu i konfiguracji komputera stacjonarnego.
 
