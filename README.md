@@ -5,15 +5,15 @@ Repozytorium zbiorcze prezentujące projekty realizowane podczas nauki i rozwoju
 ## Projekty
 
 ### 📘 IT Documentation
-🔗 https://github.com/brian-cyberquard/Portfolio-HelpDesk/tree/main/IT%20Hardware  
+🔗 https://github.com/brian-cyberquard/Portfolio-HelpDesk/tree/main/it-docs  
 Dokumentacja techniczna: procedury HelpDesk, instrukcje dla użytkowników, checklisty.
 
 ### 💻 IT Scripts
-🔗 https://github.com/brian-cyberquard/it-scripts  
+🔗 https://github.com/brian-cyberquard/Portfolio-HelpDesk/tree/main/it-scripts  
 Proste skrypty Batch i PowerShell wspierające codzienną pracę HelpDesk.
 
 ### 🖥 IT Hardware
-🔗 https://github.com/brian-cyberquard/it-hardware  
+🔗 https://github.com/brian-cyberquard/Portfolio-HelpDesk/tree/main/it-scripts  
 Dokumentacja składania i konfiguracji komputera PC wraz ze zdjęciami i opisem etapów.
 
 ## Technologie i obszary
