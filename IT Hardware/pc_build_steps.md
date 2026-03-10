@@ -3,11 +3,11 @@
 ## 1. Przygotowanie podzespołów
 Sprawdzenie kompatybilności płyty głównej, RAM oraz procesora.
 
-## 2. Montaż CPU i RAM
-Instalacja procesora w sockecie oraz pamięci RAM w odpowiednich slotach.
+## 2. Montaż CPU, RAM i Dysku M.2
+Instalacja procesora w sockecie oraz pamięci RAM i dysk M.2 w odpowiednich slotach.
 
 ## 3. Montaż płyty głównej i zasilacza
-Prawidłowe dystanse, podłączenie zasilania CPU i ATX.
+Prawidłowe dystanse, podłączenie zasilania CPU, ATX, wentylatorów i ARGB.
 
 ## 4. Test uruchomienia
 Sprawdzenie POST oraz wykrywania podzespołów w BIOS.
