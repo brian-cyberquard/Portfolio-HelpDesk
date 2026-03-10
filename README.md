@@ -22,6 +22,3 @@ Dokumentacja składania i konfiguracji komputera PC wraz ze zdjęciami i opisem 
 - Hardware PC
 - Dokumentacja techniczna
 - GitHub
-
-## Cel
-Zdobycie pierwszej pracy na stanowisku HelpDesk / IT Support.
