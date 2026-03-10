@@ -12,6 +12,3 @@ Repozytorium dokumentujące praktyczne doświadczenie w składaniu i konfiguracj
 
 ## Dokumentacja
 Projekt zawiera zdjęcia oraz opis kolejnych etapów składania komputera.
-
-## Cel
-Pokazanie praktycznych umiejętności sprzętowych istotnych na stanowisku HelpDesk / IT Support.
